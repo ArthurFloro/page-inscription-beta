@@ -1,0 +1,39 @@
+body{
+    background-image: url('fundo.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 150px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+}
+
+h1{
+    color: white;
+    font-size: 30px;
+}
+
+label{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+label:hover{
+    color: black;
+}
+
+.btn{
+    background-color: cornflowerblue;
+    border: 100%;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
